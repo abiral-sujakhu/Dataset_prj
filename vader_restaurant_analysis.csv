@@ -1,0 +1,219 @@
+restaurant_name,review_count,avg_sentiment_score,positive_review_ratio,negative_review_ratio,avg_review_length,avg_subjectivity,area,restaurant_rating,user_rating_count
+"A One Cafe Old Baneshwor, 01-4586546",5,0.79162,1.0,0.0,54.4,0.5879960317460318,Baneshwor,3.4,477.0
+Aaila chhen,5,0.7302799999999999,1.0,0.0,13.8,0.57,Koteshwor,5.0,15.0
+Aalucha,5,0.44189999999999996,0.8,0.2,56.6,0.5136959706959707,Bhaktapur Durbar Square,3.9,593.0
+Aamako Bara Pasal,5,0.85036,1.0,0.0,81.8,0.512530982905983,Bhaktapur Durbar Square,4.1,196.0
+"Alcove Restaurant , a Sanctuary",7,0.5507000000000001,0.8571428571428571,0.14285714285714285,56.57142857142857,0.5917105381391096,Baneshwor,3.5,277.0
+Alphabet Pizzeria,5,0.98038,1.0,0.0,70.6,0.6161708569208569,Bhaktapur Durbar Square,4.5,1163.0
+Antea Restro,5,0.93406,1.0,0.0,36.0,0.699985347985348,Koteshwor,4.5,103.0
+At soul by Soul Cafe,5,0.6864399999999999,0.8,0.2,56.6,0.6108171991825838,Baneshwor,4.2,49.0
+BAITHAK SEKUWA,5,0.58152,0.8,0.2,41.4,0.5863145743145742,Koteshwor,4.4,20.0
+Baiga Vutoo,5,0.9305199999999999,1.0,0.0,28.8,0.6810055555555555,Bhaktapur Durbar Square,4.7,80.0
+Baithak restro and bar,3,0.7674333333333333,1.0,0.0,10.0,0.665,Koteshwor,5.0,10.0
+Balakhu Food Point,5,0.8976200000000001,1.0,0.0,47.6,0.547347496947497,Bhaktapur Durbar Square,4.8,315.0
+Bambooze Corner Garden Restaurant,5,0.46259999999999996,0.8,0.2,91.2,0.5728524531024531,Bhaktapur Durbar Square,3.7,143.0
+Baneshwor Garden by RnB,5,0.7285,0.8,0.0,49.2,0.5476325526325526,Baneshwor,4.0,84.0
+Barbeque Chulo,3,0.49266666666666664,0.6666666666666666,0.0,31.666666666666668,0.4217249417249418,Koteshwor,4.1,16.0
+Bardali Restro & Meetings,5,0.5865,0.8,0.2,58.8,0.6174586894586895,Baneshwor,3.8,559.0
+Bawarchi Food Cafe (BFC),5,0.59872,0.8,0.2,48.2,0.7088760683760684,Koteshwor,3.4,118.0
+Bhaktapur Durbar Square,5,0.9864599999999999,1.0,0.0,108.8,0.5920518518518518,Bhaktapur Durbar Square,4.6,23820.0
+Bhaktapur Kitchen,5,0.63378,1.0,0.0,22.0,0.42672727272727273,Bhaktapur Durbar Square,4.0,19.0
+Bhatbhateni Food Park (Bhaktapur),5,0.25532000000000005,0.6,0.4,55.2,0.6165952380952382,Bhaktapur Durbar Square,2.9,109.0
+Bhintuna food cafe,5,0.34276,0.8,0.2,16.6,0.5346666666666666,Bhaktapur Durbar Square,4.7,33.0
+Bibimbap Korean Restaurant,5,0.41954,0.8,0.2,62.6,0.5212638888888889,New Road,4.4,131.0
+Biryani Adda & Tandoor Newroad,5,0.8202,1.0,0.0,23.4,0.6185476190476191,New Road,4.5,235.0
+Black & Yellow Cafe,5,0.81472,1.0,0.0,24.8,0.6809382716049383,Koteshwor,4.5,13.0
+Black Burger,5,0.7317199999999999,0.8,0.2,24.0,0.657941391941392,Koteshwor,4.5,17.0
+Blue Coriander Restaurant,5,0.3862,0.4,0.0,25.8,0.46975,Baneshwor,4.5,22.0
+Bottlehouse - BYOB & Dine-in,5,0.29488,0.6,0.2,60.0,0.5221949550449551,Baneshwor,4.6,67.0
+Breakfast House Thamel,5,0.90546,1.0,0.0,50.0,0.6302500944822373,New Road,4.9,926.0
+Byanjan House (Daura Chulo),5,0.7516,1.0,0.0,41.6,0.6077718253968254,Koteshwor,4.1,145.0
+CULTURE CAFE & BAR,5,0.77138,1.0,0.0,56.2,0.6554404761904762,Bhaktapur Durbar Square,4.6,53.0
+Cafe Boh,5,0.80418,1.0,0.0,79.6,0.5677108734402851,Bhaktapur Durbar Square,4.5,278.0
+Cafe De Taj Restro,5,0.48456,0.8,0.2,20.6,0.6300000000000001,Koteshwor,3.6,105.0
+Cafe JAC Bhaktapur,5,0.8817999999999999,1.0,0.0,21.2,0.6601269841269841,Bhaktapur Durbar Square,4.7,7.0
+Carnival Restro & Meetings,5,0.9153,1.0,0.0,50.0,0.5905297619047619,Baneshwor,4.0,451.0
+Chez Caroline,5,0.9516199999999999,1.0,0.0,79.6,0.6279890289449113,Baneshwor,4.5,684.0
+Chicken Station Koteshwor,5,0.23384,0.6,0.4,61.0,0.6428412698412698,Koteshwor,3.9,192.0
+ChiyaBhatti Cafe,5,0.6237,0.8,0.2,32.0,0.5377693121693121,Bhaktapur Durbar Square,3.8,128.0
+Cin Cin Garden,5,0.9471399999999999,1.0,0.0,41.4,0.6302323232323233,Bhaktapur Durbar Square,4.6,611.0
+CityScape Garden Grill,5,0.2985,0.8,0.2,109.8,0.5931507936507937,New Road,3.4,272.0
+Cityscape Legacy Lounge and Bar,4,0.75385,1.0,0.0,11.0,0.6734848484848485,Baneshwor,5.0,6.0
+Coffee in Style,5,0.8817999999999999,1.0,0.0,47.2,0.6246038961038961,Bhaktapur Durbar Square,4.4,107.0
+Community at The Nanee,5,0.9260999999999999,1.0,0.0,63.8,0.6126427738927739,Bhaktapur Durbar Square,4.7,78.0
+Corner Point Restaurant &Bar,5,0.93712,1.0,0.0,61.0,0.6863928571428571,New Road,4.6,45.0
+Crossroad Restro & Lounge Bar,5,0.7489600000000001,1.0,0.0,32.4,0.5805476190476191,Koteshwor,4.4,11.0
+Crunchy Corner Mid Baneshwo,5,0.45164,0.8,0.2,74.2,0.5294486111111112,Baneshwor,2.9,180.0
+Crunchy Corner New Baneshwor,5,0.27949999999999997,0.6,0.4,34.4,0.5398333333333334,Baneshwor,3.3,305.0
+Daily Grind Coffee,5,0.50624,0.8,0.2,60.2,0.6246499118165785,Bhaktapur Durbar Square,3.8,25.0
+Dak-Galbi Korean House,5,0.9015000000000001,1.0,0.0,40.8,0.6025735930735932,New Road,4.5,243.0
+Dalle Momo - Newroad,5,0.77012,1.0,0.0,29.2,0.6839587912087912,New Road,3.8,122.0
+Daura Thakali Pepsicola,5,0.9714,1.0,0.0,73.8,0.6251724777630351,Koteshwor,4.6,2618.0
+De Arena Restaurant Paryatak Pasal,5,0.31566,0.6,0.4,42.0,0.7165728715728716,Bhaktapur Durbar Square,4.5,38.0
+De Temple Cafe,5,0.56884,0.8,0.2,69.2,0.6041603174603175,Bhaktapur Durbar Square,4.3,217.0
+Dharahara Welcome Tapari Momo & Fast Food Restaurant,5,0.67538,0.8,0.0,21.2,0.5177142857142857,Koteshwor,5.0,10.0
+Drishya Lounge - Best Lounge in New Baneshwor,5,0.94198,1.0,0.0,82.4,0.6516109404335211,Baneshwor,4.5,1180.0
+Dugansali Newa Suli Pvt. Ltd,5,0.6695800000000001,0.8,0.0,20.8,0.6058333333333333,Bhaktapur Durbar Square,4.8,152.0
+Durbar Coffee & Eatery,5,0.9134,1.0,0.0,30.8,0.5438750000000001,Bhaktapur Durbar Square,4.6,26.0
+Durbar Restaurant,5,0.38472,0.8,0.2,31.0,0.64,Bhaktapur Durbar Square,4.0,20.0
+Durbar Thakali Grill,5,-0.12312000000000001,0.4,0.6,105.4,0.608527923267209,Bhaktapur Durbar Square,3.5,384.0
+Everest MoMo,5,0.77208,1.0,0.0,39.8,0.5970324675324676,Bhaktapur Durbar Square,3.8,128.0
+Food Bowl Restro,5,0.95372,1.0,0.0,57.0,0.7068054829009375,Bhaktapur Durbar Square,4.6,83.0
+Food Hub by H20 (Mid Baneswor),5,0.92814,1.0,0.0,46.4,0.635968253968254,Baneshwor,4.2,362.0
+Friends Restaurant,8,0.7402124999999999,0.875,0.125,16.5,0.5999603174603175,Baneshwor,4.8,99.0
+Gaia Restaurant,5,0.97468,1.0,0.0,69.6,0.6131288156288155,New Road,4.5,1248.0
+Gaunghar restaurant,5,0.80928,1.0,0.0,13.2,0.64035,Baneshwor,4.9,9.0
+Ghuicho Restaurant & Bar घुुईंचो,5,0.6375200000000001,1.0,0.0,20.6,0.652,New Road,4.4,48.0
+Go Foodie Cafe,2,0.4404,1.0,0.0,5.0,0.48250000000000004,Baneshwor,4.9,14.0
+Graveaty Restaurant and Bar,5,0.96144,1.0,0.0,61.0,0.6166759259259258,New Road,4.8,807.0
+Green Villy Restaurant - Thamel Kathmandu,5,0.9764200000000001,1.0,0.0,53.0,0.6409660339660339,New Road,4.8,2114.0
+Grill Durbar Bhaktapur,2,0.92535,1.0,0.0,43.5,0.7789351851851852,Bhaktapur Durbar Square,4.8,6.0
+HOTEL CENTRAL BHAKTAPUR,5,0.9463000000000001,1.0,0.0,44.6,0.6139272727272728,Bhaktapur Durbar Square,4.7,43.0
+Hankook Sarang Korean Restaurant,5,0.91408,1.0,0.0,92.8,0.5431743506655787,New Road,4.4,947.0
+Hard Rock Cafe Kathmandu,5,0.9334199999999999,1.0,0.0,87.8,0.5883355637116506,New Road,4.5,1293.0
+Hideaway Restaurant,5,0.73608,1.0,0.0,26.8,0.6615555555555556,Baneshwor,4.2,39.0
+Hotel A One Cafe and Venue,5,0.78246,1.0,0.0,41.8,0.5815439620292562,Koteshwor,4.1,235.0
+Hotel Empire & Rooftop Restaurant,5,0.59362,0.8,0.2,56.0,0.6108919413919415,Bhaktapur Durbar Square,4.0,122.0
+House of Thakali,7,0.849057142857143,1.0,0.0,70.14285714285714,0.6642217517222084,Baneshwor,4.3,566.0
+Hukum Restro,5,0.20195999999999997,0.6,0.4,22.8,0.7971818181818182,Baneshwor,4.1,16.0
+Hunger End Thakali Kitchen and Rooftop Restaurant,5,0.63604,0.8,0.2,51.0,0.5841088435374149,New Road,4.5,80.0
+Hunger Hub Restaurant and Bar,5,0.90452,1.0,0.0,39.8,0.7175,Baneshwor,4.3,147.0
+Indo-Bhutan Cafe ktm,5,0.6843600000000001,0.8,0.0,26.6,0.6609090909090909,Koteshwor,4.7,156.0
+Indrachowk Bara Pasal,5,0.9413600000000001,1.0,0.0,64.0,0.5677344692344692,New Road,4.4,312.0
+JAR - Just Another Restaurant,5,0.8615600000000001,1.0,0.0,64.0,0.5981298701298702,Baneshwor,4.3,436.0
+JamPauroti - Food & Drinks,5,0.9578,1.0,0.0,63.6,0.6354695920022008,Baneshwor,4.5,96.0
+Jasper Restaurant,5,0.9697800000000001,1.0,0.0,102.0,0.6488667203723595,New Road,4.7,4152.0
+Jheer Baneshwor,7,0.6329,0.8571428571428571,0.14285714285714285,63.57142857142857,0.5640020078826896,Baneshwor,3.8,509.0
+Jhegu newa kitchen restro,5,0.6271800000000001,0.8,0.2,21.0,0.6515833333333333,Bhaktapur Durbar Square,4.4,17.0
+"Jholpattey, New Baneshwor",5,-0.006800000000000006,0.4,0.6,68.6,0.649515873015873,Baneshwor,3.7,50.0
+Jhomsha Restaurant,5,0.9117200000000001,1.0,0.0,41.0,0.6124549319727891,New Road,4.4,77.0
+Jigri Sekuwa-Shantinagar,5,0.9561999999999999,1.0,0.0,63.6,0.6261454545454546,Baneshwor,4.7,1299.0
+"Jimbu Thakali by Capital Grill, New Baneshwor",7,0.7809857142857143,0.8571428571428571,0.14285714285714285,105.28571428571429,0.675356958513569,Baneshwor,4.4,3264.0
+KFC - Koteshwor,5,-0.3044,0.4,0.6,47.0,0.5833044217687074,Koteshwor,4.1,27.0
+"KIMAYA RESTAURANT -THAMEL,KATHMANDU",5,0.8425800000000001,1.0,0.0,39.4,0.5887693744164333,New Road,4.8,291.0
+KV Lounge & Jagati Chhoila Pasal,5,0.4282,0.6,0.2,79.0,0.6211095959595959,Bhaktapur Durbar Square,3.9,138.0
+Kabbu's cafe,5,0.75068,1.0,0.0,15.2,0.7177777777777778,Koteshwor,5.0,21.0
+KaidaKo Coffee House,5,0.9390000000000001,1.0,0.0,64.0,0.6540698051948052,Koteshwor,4.7,264.0
+Kathmandu Grill Restaurant & Wine Bar,5,0.98354,1.0,0.0,92.0,0.6780022484570104,New Road,4.7,2456.0
+Kimbu Restro,5,0.8726,1.0,0.0,65.8,0.6888798701298702,Koteshwor,4.3,63.0
+Koila Multi Cuisine Restaurant- Dovan Pool,5,0.6965399999999999,1.0,0.0,114.0,0.5606310039167182,Koteshwor,3.7,341.0
+Korean Kini,5,0.94554,1.0,0.0,53.6,0.6451830206830207,New Road,4.1,126.0
+Koyla Lounge & Bar,5,0.6528400000000001,0.8,0.2,60.8,0.6928528138528138,New Road,3.9,1059.0
+Lazy Monk Restaurant and Bar,5,-0.021820000000000016,0.4,0.4,57.6,0.6293760683760684,New Road,4.3,44.0
+Le Mirch by Exotic,5,0.9599,1.0,0.0,69.6,0.5414259259259259,New Road,4.2,81.0
+Local Khana,5,0.8002800000000001,1.0,0.0,20.2,0.6816000000000001,Baneshwor,4.5,60.0
+Local Sekuwa,5,0.6205,0.8,0.0,84.6,0.494872092710602,Baneshwor,4.0,1103.0
+Lotus Restaurant & Bar,5,0.792,1.0,0.0,10.2,0.6302666666666668,Bhaktapur Durbar Square,4.2,22.0
+MANTRA Baneshwor,5,0.8664400000000001,1.0,0.0,44.2,0.6406782106782107,Baneshwor,4.2,111.0
+Maak Ara,8,0.9205875,1.0,0.0,68.625,0.6743145946067821,Baneshwor,4.4,776.0
+Magar Dai Ko Cafe,5,0.47135999999999995,0.8,0.2,65.2,0.5351897675736962,Koteshwor,4.4,128.0
+MagicBell Restro -New Baneshwor,5,0.8740600000000001,1.0,0.0,49.8,0.5033333333333333,Baneshwor,4.8,501.0
+Masala Beads Café,5,0.8227800000000001,1.0,0.0,57.8,0.5891251526251526,New Road,4.2,254.0
+Matina Cafe,5,0.6641199999999999,1.0,0.0,90.2,0.5160696248196248,Bhaktapur Durbar Square,3.2,103.0
+Maven Cafe,5,0.5518599999999999,0.8,0.2,46.2,0.5838333333333334,Baneshwor,4.1,119.0
+Mayur Restaurant,5,0.5705199999999999,0.8,0.2,85.4,0.5877268907563025,Bhaktapur Durbar Square,4.3,324.0
+Mazaaj Restaurant & Sheesha Lounge,5,0.90568,1.0,0.0,66.8,0.6046049783549784,New Road,4.6,753.0
+"Meraki Cafe,Restro & Bar | Restaurant in Thamel, Kathmandu",5,0.9212,1.0,0.0,114.4,0.5799640692640693,New Road,4.7,117.0
+Mero Cafe,5,0.6876800000000001,1.0,0.0,30.2,0.6289285714285715,Baneshwor,4.7,74.0
+Mi:loco Cafe' n Restaurant,5,0.76924,1.0,0.0,27.4,0.5851666666666666,Bhaktapur Durbar Square,4.0,89.0
+Michael Grills (Mid-Baneshwor),6,0.8042166666666667,1.0,0.0,59.5,0.5797886989553657,Baneshwor,4.5,1939.0
+Mid Point Restaurant.,5,0.66228,1.0,0.0,7.4,0.8306666666666667,Koteshwor,4.9,14.0
+Momo's Villa & Cafe,5,0.76366,1.0,0.0,17.0,0.6110842490842491,Koteshwor,4.8,23.0
+Monster Meal - Newroad,5,0.04685999999999999,0.6,0.4,46.8,0.6682164502164503,New Road,4.5,656.0
+Mr Tea & Grill,5,0.016979999999999995,0.4,0.6,11.0,0.5633333333333334,Koteshwor,4.6,27.0
+Mr. Bhakka,5,0.37173999999999996,0.6,0.2,26.6,0.5305544217687075,Koteshwor,4.3,37.0
+Muglan Hotel & Thakali Restaurant,5,0.22182000000000004,0.6,0.4,42.6,0.7318055555555556,Bhaktapur Durbar Square,4.0,224.0
+Mulchowk Restaurant,5,0.87834,1.0,0.0,45.0,0.5423587301587302,New Road,4.2,381.0
+Munch N More Restaurant and Bar,5,0.89254,1.0,0.0,24.4,0.6833181818181819,Koteshwor,4.7,41.0
+Namaste Restaurant,5,0.55788,0.8,0.2,50.4,0.6829188596491228,Bhaktapur Durbar Square,4.3,404.0
+"Nepal Cloud Kitchen, New Road",1,0.9482,1.0,0.0,50.0,0.6714285714285715,New Road,4.5,2.0
+Nepalaya Rooftop Restaurant,5,0.62216,0.8,0.2,31.6,0.7088571428571429,New Road,4.7,997.0
+Nepali thali,5,0.67774,0.8,0.0,31.2,0.6670952380952382,Koteshwor,4.5,36.0
+New Durbar Restro & Bar,4,0.52395,1.0,0.0,45.0,0.43846153846153846,New Road,4.8,10.0
+New Food Restaurant,5,0.4952,0.8,0.2,86.4,0.587878688562899,New Road,3.9,201.0
+New Orleans Cafe,5,0.89666,1.0,0.0,64.4,0.6563437314319668,New Road,4.2,1516.0
+New Watshala Garden Restaurant,5,0.45716,0.8,0.2,28.4,0.6439333333333332,Bhaktapur Durbar Square,4.4,16.0
+Newa Ghasa - Basantapur,5,0.46314,0.8,0.2,53.6,0.5537707016690974,New Road,4.1,216.0
+Newa Lahana Bhaktapur & Hotel,5,0.1409,0.6,0.4,75.2,0.5835250337381916,Bhaktapur Durbar Square,4.2,65.0
+Newa Lahana Newroad,5,0.87874,1.0,0.0,96.8,0.6224363533292104,New Road,4.4,89.0
+"Newa Lahana, Kamaladi",5,0.35724,0.8,0.2,59.8,0.6360806277056277,New Road,3.6,29.0
+Newa MoMo Restaurant,5,0.9164999999999999,1.0,0.0,55.8,0.6405189594356261,New Road,4.6,947.0
+North Rooftop Restaurant,5,0.52268,0.8,0.2,62.2,0.6210357142857144,Bhaktapur Durbar Square,4.1,70.0
+Offline Cafe,5,0.9167400000000001,1.0,0.0,38.6,0.5717027417027417,Koteshwor,4.8,39.0
+Oktobeer,5,0.84038,1.0,0.0,53.4,0.6221073031906366,Baneshwor,4.2,150.0
+Old Town Food: Best Late-Night Food in Bhaktapur,5,0.5635600000000001,0.8,0.2,54.6,0.5643068783068783,Bhaktapur Durbar Square,3.9,402.0
+Om Veg Momo,5,0.8019400000000001,1.0,0.0,57.0,0.660969696969697,New Road,4.9,82.0
+PAT'S STATION RESTAURANT AND BAR,5,0.88362,1.0,0.0,26.6,0.6898560606060606,Koteshwor,4.3,25.0
+Pahichan Tha Identity Cafe and Restro,5,0.75998,1.0,0.0,16.2,0.6695555555555555,Koteshwor,4.0,21.0
+Parpala Bistro & Cafe,6,0.5488333333333334,0.8333333333333334,0.16666666666666666,41.833333333333336,0.5595328282828284,Baneshwor,4.0,377.0
+Peaceful Korean Restaurant,5,0.93334,1.0,0.0,70.2,0.5478550470693329,Bhaktapur Durbar Square,4.3,165.0
+Pink Putali Restaurant & Bar,5,0.8051,1.0,0.0,32.2,0.5250569985569985,Baneshwor,4.8,87.0
+Pizza World Baneshwor,5,0.94034,1.0,0.0,45.6,0.6024181818181817,Baneshwor,4.5,114.0
+Pong Restaurant,5,0.47428,0.8,0.2,45.2,0.5450178062678063,Baneshwor,4.1,42.0
+Portobello guest house,5,0.64714,1.0,0.0,4.8,0.7393333333333334,Koteshwor,4.5,24.0
+Restaurant Tusa,5,0.78036,0.8,0.0,146.6,0.5267681116722784,Bhaktapur Durbar Square,4.6,150.0
+Resunga Family Bhojanalaya,5,0.06935999999999998,0.6,0.4,43.2,0.5427777777777778,Koteshwor,4.1,468.0
+Revolution Cafe,5,0.92746,1.0,0.0,76.4,0.5756742799683976,New Road,4.1,596.0
+Riva Grill House,5,0.19512000000000002,0.6,0.4,49.8,0.5594742063492063,Baneshwor,4.4,28.0
+Roadhouse Cafe,5,0.9642,1.0,0.0,76.0,0.5809023903187189,New Road,4.5,3531.0
+Roadhouse Cafe- Battisputali,5,0.57812,0.8,0.2,44.8,0.6021908091908093,Baneshwor,4.4,239.0
+SUNDOWN by Karma KTM,5,0.94062,1.0,0.0,50.6,0.6410291486291486,New Road,4.2,1025.0
+Sakotha Woh-Chatamari Fast Food,5,0.7938,1.0,0.0,52.2,0.7317566137566137,Bhaktapur Durbar Square,4.6,24.0
+Sam's One Tree Cafe,5,0.9670400000000001,1.0,0.0,77.0,0.5987498719918075,New Road,4.2,1511.0
+Sanchyan Ramen Japanese Restaurant,5,0.94712,1.0,0.0,77.4,0.5404579124579125,New Road,4.7,1080.0
+Sasha Restaurant and Bar,5,0.24290000000000003,0.6,0.2,11.4,0.71,Koteshwor,4.0,16.0
+Shandaar Momo Newroad,2,0.16870000000000002,0.5,0.5,21.0,0.5377525252525253,New Road,2.8,4.0
+Shandar Cafe,5,0.62338,0.8,0.2,29.6,0.5898809523809524,New Road,4.3,167.0
+Sheel Sekuwa and kitchen (cuisine),5,0.3562,0.6,0.2,34.6,0.5034074074074073,Koteshwor,3.4,27.0
+Shiva Guest House,5,0.8810600000000001,1.0,0.0,83.0,0.5542648809523809,Bhaktapur Durbar Square,4.2,26.0
+Shree Gudpak Bhandar,3,0.7531,1.0,0.0,24.333333333333332,0.47694444444444445,Bhaktapur Durbar Square,5.0,5.0
+Shrey Courtyard,5,0.93344,1.0,0.0,53.6,0.6056618480725623,Koteshwor,4.4,769.0
+Siddhartha Cottage,5,0.62874,1.0,0.0,29.2,0.6647936507936507,Koteshwor,3.8,895.0
+Siddhartha Foodland,5,0.7780400000000001,1.0,0.0,35.4,0.4917671957671958,Baneshwor,3.9,644.0
+Sky Ship,5,0.88512,1.0,0.0,40.2,0.5407575757575758,New Road,3.7,159.0
+Smoking Yak Kathmandu,5,0.9612,1.0,0.0,76.2,0.7106703296703297,New Road,4.3,403.0
+Spice -6 Tandoori and Family Restaurant,4,0.5189,0.75,0.0,11.75,0.5185119047619048,Koteshwor,4.5,11.0
+Supper Club,5,0.9316800000000001,1.0,0.0,62.8,0.5725638655462186,New Road,4.3,384.0
+T's your palate,5,0.92344,1.0,0.0,58.0,0.6566719576719577,New Road,4.7,2448.0
+Tahina Terrace,5,0.9486800000000001,1.0,0.0,56.4,0.6698333333333333,New Road,4.6,46.0
+Taleju Grand Hotel - Bhaktapur,5,0.6643399999999999,1.0,0.0,26.0,0.6663809523809524,Bhaktapur Durbar Square,4.7,22.0
+Terrace Cafe & Restro,5,0.87686,1.0,0.0,72.6,0.5936904761904762,Baneshwor,3.8,51.0
+Tha Chhen Restaurant,5,0.44312000000000007,0.8,0.2,56.6,0.5272638414217361,Baneshwor,3.9,47.0
+Thakkhola Thakali Cuisine New Baneshwor,5,0.75488,1.0,0.0,46.0,0.6794206349206349,Baneshwor,3.9,969.0
+The Bakery Cafe Baneshwor,5,0.9247,1.0,0.0,80.2,0.5738188112124283,Baneshwor,4.0,1373.0
+"The Burger House And Melung Thakali - Subidhanagar,Tinkune",5,0.16655999999999999,0.6,0.4,53.4,0.6466666666666667,Koteshwor,3.8,101.0
+The Gaga Restaurant,5,0.2814,0.6,0.4,62.4,0.5957792207792207,Baneshwor,3.1,169.0
+The Garuda Bar,5,0.9007400000000001,1.0,0.0,62.2,0.6835321428571428,Bhaktapur Durbar Square,4.1,110.0
+The Golden Eyes Restaurant & Cafe,5,0.6989799999999999,1.0,0.0,99.6,0.5960864718614719,Bhaktapur Durbar Square,3.6,96.0
+The Grill Nation,5,0.95922,1.0,0.0,83.8,0.619465873015873,Baneshwor,4.2,1186.0
+The LOFT lounge,5,0.77882,1.0,0.0,45.2,0.5401666666666667,Baneshwor,3.9,340.0
+The Nanee,5,0.96104,1.0,0.0,77.4,0.6277804093567252,Bhaktapur Durbar Square,4.5,102.0
+The Noodles Bar,5,0.8742000000000001,1.0,0.0,132.2,0.5686844980416409,Baneshwor,4.5,196.0
+The One Cafe,5,0.35742,0.6,0.0,6.6,0.6066666666666667,Koteshwor,4.1,19.0
+The Pottery Cafe and bar,5,0.68544,1.0,0.0,53.0,0.5654880952380953,Bhaktapur Durbar Square,4.5,279.0
+"The Wings Factory, Mid-Baneshowr",5,0.8627800000000001,1.0,0.0,83.2,0.5814297345374932,Baneshwor,4.3,614.0
+The grillfather,5,0.37639999999999996,0.6,0.4,83.6,0.6080255602240896,Baneshwor,4.2,163.0
+Thirsty Newari Restaurant,5,0.96074,1.0,0.0,66.8,0.6743611111111112,New Road,4.9,107.0
+Time's Cafe And Restro,5,0.91062,1.0,0.0,49.8,0.7072810047095761,Bhaktapur Durbar Square,4.0,189.0
+Timmure Mid-Baneshwor,7,0.8152714285714285,0.8571428571428571,0.0,56.0,0.5889383055853921,Baneshwor,3.4,351.0
+Timmure kamalbinayak,5,0.93428,1.0,0.0,53.6,0.6375357142857142,Bhaktapur Durbar Square,4.4,244.0
+Trailers Mania,5,0.70312,0.8,0.0,31.8,0.485175974025974,Baneshwor,4.7,60.0
+Tryst Fast Food Restaurant,5,0.9063599999999999,1.0,0.0,100.6,0.5854803675856307,Bhaktapur Durbar Square,3.6,179.0
+Twenty Forty,6,0.59315,0.8333333333333334,0.16666666666666666,73.0,0.6221392691129534,Baneshwor,4.3,2179.0
+Two Sister’s Cafe,5,0.55708,0.8,0.2,42.2,0.4268267195767196,Baneshwor,4.4,50.0
+Universal Tandoori Cafe,5,0.594,0.8,0.2,42.0,0.5956746031746032,Bhaktapur Durbar Square,3.5,183.0
+Vajra Boutique Hotel,5,0.48163999999999996,0.6,0.2,39.8,0.6114670274170274,Bhaktapur Durbar Square,4.1,214.0
+Vault Restro and Bar,5,0.41928,0.6,0.2,27.0,0.6355333333333334,New Road,4.4,113.0
+Vertigo BBQ,5,0.5918599999999999,0.8,0.2,78.8,0.6445524691358024,Baneshwor,4.4,485.0
+Vinoliva Restaurant & Bar,5,0.9778600000000001,1.0,0.0,111.0,0.6575267857142857,New Road,4.3,252.0
+Walnut Bistro - Restaurant in Kathmandu,5,0.90726,1.0,0.0,105.6,0.6612925122618217,New Road,4.7,3136.0
+Western Restro,5,0.94146,1.0,0.0,55.2,0.5862827260458839,New Road,5.0,245.0
+Wonderland Restaurant,5,0.91562,1.0,0.0,33.0,0.5868163780663782,Baneshwor,4.0,219.0
+YABA YANG,9,0.8191555555555555,1.0,0.0,39.44444444444444,0.6440396985730319,Baneshwor,4.7,19.0
+Yala Cafe & Coffee Shop,5,0.96198,1.0,0.0,60.4,0.6455523180523179,New Road,4.8,1763.0
+Yasumi Japanese Restaurant,5,0.8858,1.0,0.0,52.2,0.568947496947497,New Road,4.5,173.0
+Yatra cafe and restaurant,5,0.8475999999999999,1.0,0.0,27.2,0.4909920634920635,Koteshwor,4.7,16.0
+Yog Rooftop Garden Restaurant & Bar,5,0.9219200000000001,1.0,0.0,71.4,0.6465648629148629,New Road,4.5,433.0
+Zafar Ka Safar,5,0.61634,1.0,0.0,12.2,0.6241919191919192,Koteshwor,5.0,29.0
+khwapa chhen Guest House and Restaurant,5,0.86486,1.0,0.0,43.8,0.7342831501831502,Bhaktapur Durbar Square,3.9,85.0
+华都24 小时餐厅（24 Hours Restaurant）,1,0.4404,1.0,0.0,10.0,0.30000000000000004,New Road,5.0,1.0
